@@ -1,9 +1,9 @@
 # Tsuen Hsueh (michael21910)
-
-Hello, everyone! My name is Tsuen Hsueh, you can call me Michael or Mikki.  
-I am a junior from National Dong Hwa University in Taiwan.  
-Studying in the department of Computer Science and Information Engineering (CSIE).  
-I code C, C++, Python, HTML and CSS. Now, I am learning JavaScript and Swift.  
-Feel free to check out my repos!  
   
-[Personal Webpage](https://michael21910.github.io/index.html) 
+My webpage: [Personal Webpage](https://michael21910.github.io/index.html)  
+  
+### My Github Stats  
+![michael21910's github stats](https://github-readme-stats.vercel.app/api?username=michael21910&show_icons=true&theme=vue)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michael21910&theme=vue)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michael21910&theme=vue)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=vue)
