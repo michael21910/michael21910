@@ -14,25 +14,3 @@
   
 * :star: Please star every repositories you like! Thank You!  
   
----
-  
-### :chart_with_upwards_trend:My Github Stats  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai" width="705px">
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michael21910&theme=monokai" width="340px">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michael21910&theme=monokai" width="340px">
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michael21910&theme=monokai" width="340px">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michael21910&theme=monokai" width="340px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html&layout=compact&theme=monokai" width="335px">
-  
----
-  
-### Some cool repos
-<a href="https://github.com/michael21910/js-sort-visualization">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization">
-</a>
-<a href="https://github.com/michael21910/harvest-moon-recipe-web-crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=harvest-moon-recipe-web-crawler">
-</a>
-  
----
-
