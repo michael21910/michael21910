@@ -28,10 +28,10 @@
   
 ### Some cool repos
 <a href="https://github.com/michael21910/js-sort-visualization">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization">
 </a>
 <a href="https://github.com/michael21910/harvest-moon-recipe-web-crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=harvest-moon-recipe-web-crawler" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=harvest-moon-recipe-web-crawler">
 </a>
   
 ---
