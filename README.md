@@ -64,5 +64,7 @@
 ### :small_orange_diamond: Some cool repos :small_orange_diamond:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization)](https://github.com/michael21910/js-sort-visualization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=harvest-moon-recipe-web-crawler)](https://github.com/michael21910/harvest-moon-recipe-web-crawler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=NDHU-dogs-web-crawler)](https://github.com/michael21910/NDHU-dogs-web-crawler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=NDHUAC-latest-activity-web-crawler)](https://github.com/michael21910/NDHUAC-latest-activity-web-crawler)
   
 ---
