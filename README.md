@@ -52,12 +52,11 @@
 ---
   
 ### :chart_with_upwards_trend: My Github Stats  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai">
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michael21910&theme=monokai">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michael21910&theme=monokai">
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michael21910&theme=monokai">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michael21910&theme=monokai">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html&layout=compact&theme=monokai">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michael21910&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michael21910&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michael21910&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michael21910&theme=monokai)
   
 ---
   
