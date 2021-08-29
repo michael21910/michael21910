@@ -57,6 +57,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michael21910&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michael21910&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michael21910&theme=monokai)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html&layout=compact&theme=monokai)
   
 ---
   
