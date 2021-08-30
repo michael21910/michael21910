@@ -63,8 +63,8 @@
   
 ### :small_orange_diamond: Some cool repos :small_orange_diamond:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization)](https://github.com/michael21910/js-sort-visualization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=yt-video-web-crawler)](https://github.com/michael21910/yt-video-web-crawler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=auto-receipt-check)](https://github.com/michael21910/auto-receipt-check)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=codeshare)](https://github.com/michael21910/codeshare)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=NDHUAC-latest-activity-web-crawler)](https://github.com/michael21910/NDHUAC-latest-activity-web-crawler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=yt-video-web-crawler)](https://github.com/michael21910/yt-video-web-crawler)
   
 ---
