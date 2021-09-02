@@ -13,7 +13,7 @@
   * :white_flag: LinkedIn: [tsuen Hsueh](https://www.linkedin.com/in/tsuenhsueh/)  
   * :e-mail: Email: 410821305@gms.ndhu.edu.tw  
   * :speech_balloon: Instagram: [tsuen_0107](https://www.instagram.com/tsuen_0107/)
-  * :white_flower: Medium: [faefae31910](https://medium.com/@faefae31910)
+  * :white_flower: Medium: [tsuenhsueh](https://tsuenhsueh.medium.com/)
   
 * :star: Please star every repositories you like! Thank You!  
   
