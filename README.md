@@ -2,7 +2,7 @@
   
 --- 
   
-* :writing_hand: Computer Science and Information Engineering junior student  
+* :writing_hand: Computer Science and Information Engineering(CSIE) junior student  
 
 * :desktop_computer: Machine Learning, Front-end-Development, Web Crawler  
 
