@@ -4,7 +4,7 @@
   
 * :writing_hand: Computer Science and Information Engineering(CSIE) junior student  
 
-* :desktop_computer: Machine Learning, Front-end-Development, Web Crawler  
+* :desktop_computer: Machine Learning, Front-end-Development, Web Crawler, iOS app(Swift), EEG analysis  
 
 * :triangular_flag_on_post: My webpage: [Personal Webpage](https://michael21910.github.io/index.html)  
   
