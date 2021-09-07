@@ -52,6 +52,13 @@
   
 ---
   
+### :tada: GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=michael21910&column=7&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+  
+---
+  
 ### :chart_with_upwards_trend: My Github Stats  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michael21910&theme=monokai)
