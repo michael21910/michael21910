@@ -1,6 +1,6 @@
-### Hello! I'm Tsuen Hsueh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">  
+<h3 align="center">Hello! I'm Tsuen Hsueh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>  
   
---- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael21910&label=Profile%20views&color=694635&style=flat" alt="michael21910" /> </p>
   
 * :writing_hand: Computer Science and Information Engineering(CSIE) junior student  
 
