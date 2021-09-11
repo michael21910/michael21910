@@ -69,6 +69,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michael21910&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michael21910&theme=monokai)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html&layout=compact&theme=monokai)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael21910&" alt="michael21910" /></p>
   
 ---
   
