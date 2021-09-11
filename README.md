@@ -20,7 +20,7 @@
 ---
   
 ### :zap: Languages and Tools
-<p align="left">
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
     </a>
