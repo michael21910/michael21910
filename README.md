@@ -57,7 +57,7 @@
   
 ### :tada: GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=michael21910&column=7&theme=radical&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=michael21910&column=7&no-frame=true&no-bg=true"/>
 </a>
   
 ---
