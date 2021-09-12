@@ -20,7 +20,7 @@
 ---
   
 ### :zap: Languages and Tools
-<p align="center">
+<p align="left">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
     </a>
@@ -56,9 +56,11 @@
 ---
   
 ### :tada: GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=michael21910&column=7&no-frame=true&no-bg=true"/>
-</a>
+<p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=michael21910&column=7&no-frame=true&no-bg=true"/>
+    </a>
+</p>
   
 ---
   
