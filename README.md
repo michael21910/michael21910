@@ -73,7 +73,7 @@
   
 ---
   
-### :small_orange_diamond: Some cool repos :small_orange_diamond:
+### :fire: Some cool repos :fire:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization)](https://github.com/michael21910/js-sort-visualization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=auto-receipt-check)](https://github.com/michael21910/auto-receipt-check)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=ptt-word-cloud-generator)](https://github.com/michael21910/ptt-word-cloud-generator)
