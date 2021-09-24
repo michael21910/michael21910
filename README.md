@@ -6,18 +6,20 @@
     <img src="https://komarev.com/ghpvc/?username=michael21910&label=Profile%20views&color=694635&style=flat" alt="michael21910" />
 </p>
   
-* :writing_hand: Computer Science and Information Engineering(CSIE) junior student  
-
+* :100: Computer Science and Information Engineering(CSIE) junior student  
+  
+* :writing_hand: A writer at [Enlear Academy, Medium](https://enlear.academy/)
+  
 * :desktop_computer: Machine Learning, Front-end-Development, Web Crawler, iOS app(Swift), EEG analysis  
-
+  
 * :triangular_flag_on_post: My webpage: [Personal Webpage](https://michael21910.github.io/index.html)  
   
 * :handshake: Contact
-  * :white_heart: Let's be friends!
+  * :white_heart: Let's be friends!  
   * :white_flag: LinkedIn: [tsuen Hsueh](https://www.linkedin.com/in/tsuenhsueh/)  
   * :e-mail: Email: 410821305@gms.ndhu.edu.tw  
-  * :speech_balloon: Instagram: [tsuen_0107](https://www.instagram.com/tsuen_0107/)
-  * :white_flower: Medium: [tsuenhsueh](https://tsuenhsueh.medium.com/)
+  * :speech_balloon: Instagram: [tsuen_0107](https://www.instagram.com/tsuen_0107/)  
+  * :white_flower: Medium: [tsuenhsueh](https://tsuenhsueh.medium.com/)  
   
 * :star: Please star every repositories you like! Thank You!  
   
