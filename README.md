@@ -8,7 +8,9 @@
   
 * :100: Computer Science and Information Engineering(CSIE) junior student  
   
-* :writing_hand: A writer at [Enlear Academy, Medium](https://enlear.academy/)
+* :writing_hand: GA writer at [Enlear Academy, Medium](https://enlear.academy/)  
+  
+* <img width="20px" src="https://user-images.githubusercontent.com/78197510/134646031-8e22da7c-1b15-45fc-99c7-5d4706d19f76.png"> GDSC NDHU core team member, secretary  
   
 * :desktop_computer: Machine Learning, Front-end-Development, Web Crawler, iOS app(Swift), EEG analysis  
   
