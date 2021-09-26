@@ -66,15 +66,6 @@
   
 ---
   
-### :tada: GitHub Profile Trophy
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=michael21910&column=7&no-frame=true&no-bg=true"/>
-    </a>
-</p>
-  
----
-  
 ### :chart_with_upwards_trend: My Github Stats  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html&layout=compact&theme=omni)  
 [![michael21910's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael21910&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
