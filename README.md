@@ -8,7 +8,7 @@
   
 * :100: Computer Science and Information Engineering(CSIE) junior student  
   
-* :writing_hand: A writer at [Enlear Academy, Medium](https://enlear.academy/)  
+* :writing_hand: A writer at [FAUN, medium](https://faun.pub/) and [Enlear Academy, Medium](https://enlear.academy/)  
   
 * :speech_balloon: GDSC NDHU core team member, secretary  
   
