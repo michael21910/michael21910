@@ -12,7 +12,7 @@
   
 * :writing_hand: A writer at [FAUN, medium](https://faun.pub/) and [Enlear Academy, Medium](https://enlear.academy/)  
   
-* :speech_balloon: GDSC NDHU core team member, secretary  
+* :speech_balloon: [GDSC NDHU](https://gdsc.community.dev/national-dong-hwa-university-hualien-university-of-education/) core team member, secretary  
   
 * :desktop_computer: Machine Learning, Front-end-Development, Web Crawler, iOS app(Swift), EEG analysis  
   
