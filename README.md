@@ -25,7 +25,7 @@
   * :speech_balloon: Instagram: [tsuen_0107](https://www.instagram.com/tsuen_0107/)  
   * :white_flower: Medium: [tsuenhsueh](https://tsuenhsueh.medium.com/)  
   
-* :star: Please star every repositories you like! Thank You!  
+* :star: Please star every repositories you like! Follow me on Github!    
   
 ---
   
