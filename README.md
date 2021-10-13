@@ -28,6 +28,11 @@
 * :star: Please star every repositories you like! Follow me on Github!    
   
 ---
+
+### :clapper: CTC YouTube Videos 
+[什麼是CTC？為什麼要創建這個社群？(Spoken in Mandarin)](https://www.youtube.com/watch?v=MdMkS_KpqfU)
+  
+---
   
 ### :zap: Languages and Tools
 <p align="left">
