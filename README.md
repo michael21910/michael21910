@@ -22,7 +22,6 @@
   * :white_heart: Let's be friends!  
   * :white_flag: LinkedIn: [tsuen Hsueh](https://www.linkedin.com/in/tsuenhsueh/)  
   * :e-mail: Email: 410821305@gms.ndhu.edu.tw  
-  * :speech_balloon: Instagram: [tsuen_0107](https://www.instagram.com/tsuen_0107/)  
   * :white_flower: Medium: [tsuenhsueh](https://tsuenhsueh.medium.com/)  
   
 * :star: Please star every repositories you like! Follow me on Github!    
