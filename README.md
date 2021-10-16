@@ -29,7 +29,7 @@
 ---
 
 ### :clapper: CTC YouTube Videos 
-* [什麼是CTC？為什麼要創建這個社群？(2021/10/10, Spoken in Mandarin)](https://www.youtube.com/watch?v=MdMkS_KpqfU)
+* [什麼是CTC？為什麼要創建這個社群？(10/10/2021, Spoken in Mandarin)](https://www.youtube.com/watch?v=MdMkS_KpqfU)
   
 ---
   
