@@ -8,7 +8,9 @@
   
 * :100: Computer Science and Information Engineering(CSIE) junior student  
   
-* :sparkles: Founder of [CSIE Tech Community](https://discord.gg/bNguPCAZgC)
+* :sparkles: Founder of CSIE Tech Community
+    * [Discord link](https://discord.gg/bNguPCAZgC)
+    * [YouTube link](https://www.youtube.com/channel/UCMysouutDV0l5xjiMCkA-Zg)
   
 * :writing_hand: A writer at [FAUN, medium](https://faun.pub/) and [Enlear Academy, Medium](https://enlear.academy/)  
   
