@@ -80,7 +80,7 @@
 ---
   
 ### :chart_with_upwards_trend: My Github Stats  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html&layout=compact&theme=omni)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html,jupyter%20notebook&layout=compact&theme=omni)  
 [![michael21910's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael21910&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai)
   
