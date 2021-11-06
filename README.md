@@ -16,7 +16,7 @@
   
 * :speech_balloon: [GDSC NDHU](https://gdsc.community.dev/national-dong-hwa-university-hualien-university-of-education/) core team member, secretary  
   
-* :desktop_computer: Front-end-Development, Web Crawler, iOS app(Swift)  
+* :desktop_computer: Front-end-Development, Web Crawler, iOS app(Swift), Machine Learning  
   
 * :triangular_flag_on_post: My webpage: [Click here!](https://michael21910.github.io/index.html)  
   
