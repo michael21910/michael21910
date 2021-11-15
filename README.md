@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=michael21910&label=Profile%20views&color=694635&style=flat" alt="michael21910" />
 </p>
   
-* :100: Computer Science and Information Engineering(CSIE) junior student  
+* :100: Computer Science and Information Engineering(CSIE) junior student in NDHU, Taiwan  
   
 * :sparkles: Founder of CSIE Tech Community
     * [Discord link](https://discord.gg/bNguPCAZgC)
