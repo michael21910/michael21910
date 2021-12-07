@@ -103,7 +103,7 @@
   
 ### :fire: Some cool repos :fire:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization&theme=nightowl)](https://github.com/michael21910/js-sort-visualization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=swift-random-photo-generator&theme=nightowl)](https://github.com/michael21910/swift-random-photo-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=auto-receipt-check&theme=nightowl)](https://github.com/michael21910/auto-receipt-check)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=dynamic-programming&theme=nightowl)](https://github.com/michael21910/dynamic-programming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=swift-todo-list&theme=nightowl)](https://github.com/michael21910/swift-todo-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=cpp-data-structure-implementation&theme=nightowl)](https://github.com/michael21910/cpp-data-structure-implementation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=harvest-moon-recipe-web-crawler&theme=nightowl)](https://github.com/michael21910/harvest-moon-recipe-web-crawler)
   
