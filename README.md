@@ -1,4 +1,4 @@
-<h3 align="center">Hello! I'm Tsuen Hsueh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>  
+<h3 align="center">Hello! I'm Tsuen Hsueh</h3>  
   
 <p align="right">
     <img src="https://img.shields.io/github/followers/michael21910?label=Follow&color=694635&style=flat" />
