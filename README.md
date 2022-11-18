@@ -6,17 +6,15 @@
     <img src="https://komarev.com/ghpvc/?username=michael21910&label=Profile%20views&color=694635&style=flat" alt="michael21910" />
 </p>
   
-* :100: Computer Science and Information Engineering(CSIE) junior student in NDHU, Taiwan  
+* :100: Computer Science and Information Engineering(CSIE) senior student in NDHU, Taiwan    
+    
+* :desktop_computer: Backend engineer intern at CMONEY  
   
 * :sparkles: Founder of CSIE Tech Community
     * [Discord link](https://discord.gg/bNguPCAZgC)
     * [YouTube link](https://www.youtube.com/channel/UCMysouutDV0l5xjiMCkA-Zg)
   
 * :writing_hand: A writer at [FAUN, medium](https://faun.pub/) and [Enlear Academy, Medium](https://enlear.academy/)  
-  
-* :speech_balloon: [GDSC NDHU](https://gdsc.community.dev/national-dong-hwa-university-hualien-university-of-education/) core team member, secretary  
-  
-* :desktop_computer: Full-Stack-Development, Web Crawling, IoT Device  
   
 * :triangular_flag_on_post: My webpage: [Click here!](https://michael21910.github.io/index.html)  
   
@@ -26,7 +24,7 @@
   * :e-mail: Email: 410821305@gms.ndhu.edu.tw  
   * :white_flower: Medium: [tsuenhsueh](https://tsuenhsueh.medium.com/)  
   
-* :star: Please star every repositories you like! Follow me on Github!    
+* :star: Star every repositories you like and follow me on Github!    
   
 ---
 
@@ -43,6 +41,9 @@
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
