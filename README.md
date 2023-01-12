@@ -82,15 +82,4 @@
 ---
   
 ### :chart_with_upwards_trend: My Github Stats  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael21910&hide=html,jupyter%20notebook&layout=compact&theme=omni)  
-[![michael21910's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael21910&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai)
-  
----
-  
-### :fire: Some cool repos :fire:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=js-sort-visualization&theme=nightowl)](https://github.com/michael21910/js-sort-visualization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=face-mask-detection&theme=nightowl)](https://github.com/michael21910/face-mask-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=cpp-data-structure-implementation&theme=nightowl)](https://github.com/michael21910/cpp-data-structure-implementation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael21910&repo=harvest-moon-recipe-web-crawler&theme=nightowl)](https://github.com/michael21910/harvest-moon-recipe-web-crawler)
-  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai)  
