@@ -7,8 +7,6 @@
 </p>
   
 * :100: Computer Science and Information Engineering(CSIE) senior student in NDHU, Taiwan    
-    
-* :desktop_computer: Backend engineer intern at CMONEY  
   
 * :sparkles: Founder of CSIE Tech Community
     * [Discord link](https://discord.gg/bNguPCAZgC)
