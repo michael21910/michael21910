@@ -21,10 +21,5 @@
   
 ---
   
-### :trophy: My Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael21910&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
----
-  
 ### :chart_with_upwards_trend: My Github Stats  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael21910&theme=monokai)  
